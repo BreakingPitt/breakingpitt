@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @breakingpitt
-- 👀 I’m interested in Cloud Computing, AWS, Python, Terraform, Secure Code, testing,...
-- 💞️ I’m looking to collaborate on opensource projects, charity or any kind of project which helps people
+- Senior Cloud Archited
+- 🌍 Based in Madrid, Spain.
+- 👀 I’m interested in Cloud Computing, AWS, Python, Terraform, Secure Code, Testing,...
+- 💞️ I’m looking to collaborate on opensource projects, charity or any kind of project which helps people.
 
 
 <!---
